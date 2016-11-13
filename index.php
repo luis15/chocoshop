@@ -592,7 +592,6 @@
       <div class="row">
         <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1200ms" data-wow-delay="300ms">
           <h2>Nossa Equipe</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam</p>
         </div>
       </div>
       <div class="team-members">
@@ -603,14 +602,8 @@
                 <img class="img-responsive" src="images/team/1.jpg" alt="">
               </div>
               <div class="member-info">
-                <h3>João</h3>
+                <h3>João Vítor</h3>
                 <h4>Administração e Qualidade</h4>
-                <p>Não tem nada a acrescentar, é um zé ruela, um bostão mesmo, mas é lindo e a Debs quer ele</p>
-              </div>
-              <div class="social-icons">
-                <ul>
-                  <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                </ul>
               </div>
             </div>
           </div>
@@ -620,14 +613,8 @@
                 <img class="img-responsive" src="images/team/2.jpg" alt="">
               </div>
               <div class="member-info">
-                <h3>Luís Antonio</h3>
-                <h4>Desenvolvimento Back End</h4>
-                <p>Só pensa naquilo, mas só se for com homens ou cabras</p>
-              </div>
-              <div class="social-icons">
-                <ul>
-                  <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                </ul>
+                <h3>Luis Antonio</h3>
+                <h4>Back-ender</h4>
               </div>
             </div>
           </div>
@@ -638,13 +625,7 @@
               </div>
               <div class="member-info">
                 <h3>Matheus</h3>
-                <h4>Marketing e Logistica</h4>
-                <p>Chavequeiro, Nerd e ateu, seu único defeito</p>
-              </div>
-              <div class="social-icons">
-                <ul>
-                  <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                </ul>
+                <h4>Financeiro e Logistica</h4>
               </div>
             </div>
           </div>
@@ -655,13 +636,7 @@
               </div>
               <div class="member-info">
                 <h3>Pedro Júnior</h3>
-                <h4>Desenvolvimento Front End</h4>
-                <p>O cara mais foda da equipe... sem palavras pra ele leke...</p>
-              </div>
-              <div class="social-icons">
-                <ul>
-                  <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
-                </ul>
+                <h4>Front-ender</h4>
               </div>
             </div>
           </div>
@@ -675,7 +650,7 @@
         <div class="row">
           <div class="heading text-center col-sm-8 col-sm-offset-2 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
             <h2>Contate-nos</h2>
-            <p>Se interessou pelo nosso projeto e quer ser um investidor? Entre em contato e faça parte desse time.</p>
+            <p>Se interessou pelo ChocoShop e quer ser um investidor? Entre em contato e faça parte desse time.</p>
           </div>
         </div>
         <div class="contact-form wow fadeIn" data-wow-duration="1000ms" data-wow-delay="600ms">
@@ -725,7 +700,7 @@
             <p>&copy; 2016 ChocoShop.</p>
           </div>
           <div class="col-sm-6">
-            <p class="pull-right">Crafted by <a href="http://www.facebook.com/juniorkart">Júnior</a></p>
+            <p class="pull-right">Feito com &#9749; e &#10084; pelo time da ChocoShop</a></p>
           </div>
         </div>
       </div>
