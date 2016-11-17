@@ -37,3 +37,11 @@
 #footer .footer-bottom, #footer .footer-bottom a{
 	color: #752f16;
 }
+
+.service-icon{
+	background-color: #84361a;
+}
+
+.service-icon:hover, .service-icon:active{
+	background:#f7ead6;
+}
